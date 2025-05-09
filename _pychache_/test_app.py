@@ -1,4 +1,4 @@
-def maximo_basico(a: float, b: float) -> float:
+def maximo_basico(a, b):
    
     if a > b:
         return a
